@@ -1,0 +1,6 @@
+{
+  "name": "długopisyJOB - Praca Chałupnicza Składanie Długopisów",
+  "description": "Oficjalny serwis pracy chałupniczej długopisyJOB. Zarabiaj 0,99 zł za każdy złożony długopis. Elastyczna praca w domu, darmowe pakiety startowe i gwarantowane wypłaty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
